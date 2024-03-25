@@ -2,7 +2,7 @@
 
 This Python script allows you to extract and display text from live camera feed in real-time. By using OpenCV and Tesseract OCR, it provides an easy way to process text directly from your webcam or other camera sources.
 
-## How It Works
+## How to run
 
 1. **Installation**: Make sure you have the required libraries installed. You can install them using pip:
 ```
